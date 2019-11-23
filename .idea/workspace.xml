@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d610b1e-f9cd-433b-a89c-8a59e1488e4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Burger/OrderSummary/OrderSummary.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Modal/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Modal/modal.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControl.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/BuildControls/BuildControls.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Burger/Burger.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Burger/Burger.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -77,7 +79,10 @@
       <option name="presentableId" value="Default" />
       <updated>1573931050821</updated>
       <workItem from="1573931052278" duration="17432000" />
-      <workItem from="1574091687562" duration="14217000" />
+      <workItem from="1574091687562" duration="15591000" />
+      <workItem from="1574247840329" duration="2153000" />
+      <workItem from="1574370308473" duration="540000" />
+      <workItem from="1574431364507" duration="5726000" />
     </task>
     <task id="LOCAL-00001" summary="commit_1">
       <created>1573935811235</created>
@@ -114,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574112140996</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit_purchase_button">
+      <created>1574190599097</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574190599097</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +151,7 @@
     <MESSAGE value="commit_dynemicaly_ingr" />
     <MESSAGE value="commit_dynamically_ingr" />
     <MESSAGE value="commit_dynamically_ingr2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit_dynamically_ingr2" />
+    <MESSAGE value="commit_purchase_button" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_purchase_button" />
   </component>
 </project>
